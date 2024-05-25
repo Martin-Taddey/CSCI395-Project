@@ -1,4 +1,4 @@
-# Final Project - CSCI 395 - Martin Taddey - May 25, 2024
+# Final Project - CSCI 395 - Martin Taddey - May 24, 2024
 
 # Project Pokemon Randomizer:
 
