@@ -17,5 +17,3 @@
 * **2. How to use**
 	* a. Once the files are downloaded to your project. Use "npm i" to install all its dependencies. 
 	* b. To run the server use the commend "nodemon index.js".
-	* c. Which SQL tool(s) did you use to solve the question (i.e. aggregates, joins, cases etc.)? 
-
