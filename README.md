@@ -4,7 +4,7 @@
 
 * **1. About**
 
-	* Once you access the webpage, a random Pokemon with its own information and picture will be displayed. There are 1024 different Pokemons. Originally the project was more ambitious. It was supposed to let the person choose which Pokemon to display among other things, but I run out of time before the deadline.
+	* Once you access the webpage, a random Pokemon, with its own information and picture, will be displayed. There are 1024 different Pokemons. Originally the project was more ambitious. It was supposed to let the person choose which Pokemon to display among other things, but I run out of time before the deadline.
 
 * **Project Setup**
 	* a. Set up a Node.js project using Express.js
