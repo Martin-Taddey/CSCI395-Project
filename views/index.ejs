@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Pokemon Randomizer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Titan+One&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="styles/main.css">
+
+</head>
+
+<body>
+  <h1>Pokemon Randomizer</h1>
+
+  <img src="<%= pokemonSprite %>" alt="Pokemon Sprite" id="pokemonSprite" style = "width: 200px">
+  
+  <div style="text-align: center;">
+    <div style="display: inline-block; text-align: left;">
+      <p> ID: &nbsp &nbsp <%= id %> </p>
+      <p> Name: &nbsp &nbsp <%= name %> <p>
+      <p> Base Experience: &nbsp &nbsp <%= base_experience %> </p>
+      <p> Height: &nbsp <%= height %> </p>
+      <p> Weight: &nbsp <%= weight %> </p>
+    </div>
+  </div>
+
+</body>
+</html>

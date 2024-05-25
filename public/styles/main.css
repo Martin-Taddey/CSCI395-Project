@@ -1,0 +1,20 @@
+body {
+  min-height: 100vh;
+  background: #212534;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: white;
+  font-family: "Titan One", cursive;
+  font-size: 50px;
+}
+
+p {
+  color: white;
+  font-family: "Titan One", cursive;
+  font-size: 30px;
+}
