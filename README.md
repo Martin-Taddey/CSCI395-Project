@@ -8,7 +8,7 @@
 
 * **Project Setup**
 	* a. Set up a Node.js project using Express.js
-	* b. Use Axios for making HTTP requests.
+	* b. Uses Axios for making HTTP requests.
 	* c. Uses EJS and CSS for templating and style.
 
 * **API Integration**
